@@ -1,0 +1,98 @@
+2026-04-22 11:32:15,424 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 11:32:16,733 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-22 11:32:16,793 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 11:32:16,909 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-22 11:32:17,334 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 11:32:18,430 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-22 11:32:23,124 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-22 11:33:00,801 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 11:33:03,556 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 11:33:09,677 - __main__ - INFO - Processed image successfully, found 7 lines
+2026-04-22 11:33:09,683 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 11:33:13,519 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 11:33:13,525 - __main__ - INFO - Local LLM extracted 33 characters
+2026-04-22 11:34:16,268 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=True
+2026-04-22 11:34:16,648 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 11:34:20,151 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-22 11:34:20,159 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 11:34:22,180 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 11:34:22,183 - __main__ - INFO - Local LLM extracted 145 characters
+2026-04-22 20:19:12,135 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 20:19:12,643 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-22 20:19:12,795 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 20:19:12,834 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-22 20:19:13,641 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 20:19:14,035 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-22 20:19:16,552 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-22 20:36:37,866 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 20:36:38,557 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 20:36:39,269 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 20:36:55,866 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 20:36:56,488 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 20:36:57,207 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 20:48:22,593 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 20:48:23,052 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-22 20:48:23,247 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 20:48:23,374 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-22 20:48:24,055 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 20:48:24,557 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-22 20:48:26,117 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-22 20:49:04,510 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 20:49:07,176 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 20:49:13,656 - __main__ - INFO - Processed image successfully, found 9 lines
+2026-04-22 20:49:46,584 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=False
+2026-04-22 20:49:48,511 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-22 20:54:40,579 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 20:54:42,357 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 20:54:47,703 - __main__ - INFO - Processed image successfully, found 11 lines
+2026-04-22 20:55:35,752 - __main__ - INFO - Processing image with scale=0.6, margin=3, use_dict=True
+2026-04-22 20:55:36,369 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 20:55:41,556 - __main__ - INFO - Processed image successfully, found 11 lines
+2026-04-22 20:56:20,713 - __main__ - INFO - Processing image with scale=0.41, margin=3, use_dict=True
+2026-04-22 20:56:21,077 - __main__ - INFO - Processed image successfully, found 0 lines
+2026-04-22 20:56:29,139 - __main__ - INFO - Processing image with scale=0.41, margin=3, use_dict=True
+2026-04-22 20:56:29,497 - __main__ - INFO - Processed image successfully, found 0 lines
+2026-04-22 20:56:52,523 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 20:56:54,284 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 20:56:59,603 - __main__ - INFO - Processed image successfully, found 11 lines
+2026-04-22 21:02:28,300 - __main__ - INFO - Processing image with scale=15, margin=5, use_dict=True
+2026-04-22 21:05:50,018 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:05:55,546 - __main__ - INFO - Processed image successfully, found 8 lines
+2026-04-22 21:05:55,553 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 21:05:58,645 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 21:05:58,657 - __main__ - INFO - Local LLM extracted 533 characters
+2026-04-22 21:06:09,017 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 21:06:09,739 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:06:14,691 - __main__ - INFO - Processed image successfully, found 14 lines
+2026-04-22 21:06:14,695 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 21:06:17,182 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 21:06:17,188 - __main__ - INFO - Local LLM extracted 653 characters
+2026-04-22 21:15:28,357 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-22 21:15:29,073 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:15:34,154 - __main__ - INFO - Processed image successfully, found 14 lines
+2026-04-22 21:17:34,291 - __main__ - INFO - Processing image with scale=3.04, margin=5, use_dict=True
+2026-04-22 21:17:39,074 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:17:44,094 - __main__ - INFO - Processed image successfully, found 14 lines
+2026-04-22 21:18:03,766 - __main__ - INFO - Processing image with scale=6.35, margin=5, use_dict=True
+2026-04-22 21:18:30,933 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:18:36,020 - __main__ - INFO - Processed image successfully, found 14 lines
+2026-04-22 21:18:53,236 - __main__ - INFO - Processing image with scale=13.41, margin=5, use_dict=True
+2026-04-22 21:21:27,047 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-22 21:21:32,458 - __main__ - INFO - Processed image successfully, found 14 lines
+2026-04-22 23:26:01,397 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-22 23:26:01,935 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-22 23:26:02,087 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-22 23:26:02,157 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-22 23:26:02,935 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-22 23:26:03,407 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-22 23:26:06,146 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-22 23:26:21,000 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=False
+2026-04-22 23:26:22,980 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-22 23:26:22,985 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 23:26:25,107 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 23:26:25,108 - __main__ - INFO - Local LLM extracted 145 characters
+2026-04-22 23:27:01,693 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=False
+2026-04-22 23:27:03,576 - __main__ - INFO - Processed image successfully, found 6 lines
+2026-04-22 23:27:03,599 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-22 23:27:09,241 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-22 23:27:09,244 - __main__ - INFO - Local LLM extracted 60 characters

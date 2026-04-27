@@ -1,0 +1,116 @@
+2026-04-18 22:17:45,629 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-18 22:17:46,137 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-18 22:17:46,302 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-18 22:17:46,338 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-18 22:17:47,183 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-18 22:17:47,576 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-18 22:17:50,207 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-18 22:18:15,201 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:18:17,668 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:18:17,693 - __main__ - INFO - Local LLM extracted 145 characters
+2026-04-18 22:20:21,288 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\d0e64b64573a9cc8dcf92c94b3050f9003f375b74ae21e6f5bc65adab0514109\SMA Module 4.pdf
+2026-04-18 22:20:21,299 - __main__ - INFO - Found Poppler at: C:\poppler\Library\bin
+2026-04-18 22:20:21,300 - __main__ - INFO - Converting PDF to images using Poppler path: C:\poppler\Library\bin
+2026-04-18 22:20:30,856 - __main__ - INFO - Converted 31 pages from PDF
+2026-04-18 22:20:30,898 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:34,799 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:34,803 - __main__ - INFO - Local LLM extracted 1902 characters
+2026-04-18 22:20:34,825 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:38,609 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:38,613 - __main__ - INFO - Local LLM extracted 1629 characters
+2026-04-18 22:20:38,617 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:42,291 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:42,295 - __main__ - INFO - Local LLM extracted 677 characters
+2026-04-18 22:20:42,298 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:45,965 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:45,968 - __main__ - INFO - Local LLM extracted 1391 characters
+2026-04-18 22:20:45,974 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:49,599 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:49,601 - __main__ - INFO - Local LLM extracted 1285 characters
+2026-04-18 22:20:49,607 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:53,490 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:53,496 - __main__ - INFO - Local LLM extracted 1193 characters
+2026-04-18 22:20:53,500 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:20:57,294 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:20:57,294 - __main__ - INFO - Local LLM extracted 817 characters
+2026-04-18 22:20:57,299 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:01,233 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:01,233 - __main__ - INFO - Local LLM extracted 880 characters
+2026-04-18 22:21:01,239 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:05,113 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:05,113 - __main__ - INFO - Local LLM extracted 1619 characters
+2026-04-18 22:21:05,117 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:09,295 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:09,295 - __main__ - INFO - Local LLM extracted 1513 characters
+2026-04-18 22:21:09,299 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:12,499 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:12,502 - __main__ - INFO - Local LLM extracted 739 characters
+2026-04-18 22:21:12,502 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:16,834 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:16,834 - __main__ - INFO - Local LLM extracted 2011 characters
+2026-04-18 22:21:16,839 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:20,774 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:20,776 - __main__ - INFO - Local LLM extracted 1914 characters
+2026-04-18 22:21:20,782 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:26,476 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:26,481 - __main__ - INFO - Local LLM extracted 2596 characters
+2026-04-18 22:21:26,485 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:31,486 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:31,488 - __main__ - INFO - Local LLM extracted 2392 characters
+2026-04-18 22:21:31,492 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:35,504 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:35,508 - __main__ - INFO - Local LLM extracted 1329 characters
+2026-04-18 22:21:35,508 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:39,494 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:39,499 - __main__ - INFO - Local LLM extracted 1395 characters
+2026-04-18 22:21:39,501 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:43,562 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:43,566 - __main__ - INFO - Local LLM extracted 205 characters
+2026-04-18 22:21:43,571 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:48,279 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:48,282 - __main__ - INFO - Local LLM extracted 493 characters
+2026-04-18 22:21:48,288 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:52,436 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:52,445 - __main__ - INFO - Local LLM extracted 1177 characters
+2026-04-18 22:21:52,450 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:21:57,031 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:21:57,033 - __main__ - INFO - Local LLM extracted 176 characters
+2026-04-18 22:21:57,039 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:01,782 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:01,785 - __main__ - INFO - Local LLM extracted 766 characters
+2026-04-18 22:22:01,789 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:05,319 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:05,324 - __main__ - INFO - Local LLM extracted 622 characters
+2026-04-18 22:22:05,330 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:09,307 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:09,310 - __main__ - INFO - Local LLM extracted 819 characters
+2026-04-18 22:22:09,310 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:13,275 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:13,277 - __main__ - INFO - Local LLM extracted 282 characters
+2026-04-18 22:22:13,281 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:17,332 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:17,335 - __main__ - INFO - Local LLM extracted 582 characters
+2026-04-18 22:22:17,340 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:21,303 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:21,307 - __main__ - INFO - Local LLM extracted 499 characters
+2026-04-18 22:22:21,308 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:25,949 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:25,949 - __main__ - INFO - Local LLM extracted 845 characters
+2026-04-18 22:22:25,960 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:29,531 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:29,534 - __main__ - INFO - Local LLM extracted 678 characters
+2026-04-18 22:22:29,543 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:33,258 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:33,258 - __main__ - INFO - Local LLM extracted 1019 characters
+2026-04-18 22:22:33,271 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:22:36,524 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:22:36,526 - __main__ - INFO - Local LLM extracted 440 characters
+2026-04-18 22:22:36,529 - __main__ - INFO - PDF processing completed: 31 pages, 0 words
+2026-04-18 22:27:55,537 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:27:56,958 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:27:56,963 - __main__ - INFO - Local LLM extracted 145 characters
+2026-04-18 22:29:16,495 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=False
+2026-04-18 22:29:18,439 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-18 22:29:42,543 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-18 22:29:43,979 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-18 22:29:43,982 - __main__ - INFO - Local LLM extracted 145 characters

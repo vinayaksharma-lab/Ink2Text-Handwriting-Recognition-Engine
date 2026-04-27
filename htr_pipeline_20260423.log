@@ -1,0 +1,53 @@
+2026-04-23 09:54:16,096 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-23 09:54:16,699 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-23 09:54:16,801 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-23 09:54:16,837 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-23 09:54:17,618 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-23 09:54:18,144 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-23 09:54:21,058 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-23 09:56:24,513 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-23 09:56:25,881 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-23 09:56:26,239 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-23 09:56:26,533 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-23 09:56:27,981 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-23 09:56:29,762 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-23 10:01:08,137 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\78c609c6da2850ec9c8df0e061a53850254f2cb1dbe481364b389787885d0838\pdf example.pdf
+2026-04-23 10:01:08,146 - __main__ - INFO - Found Poppler at: C:\poppler\Library\bin
+2026-04-23 10:01:08,146 - __main__ - INFO - Converting PDF to images using Poppler path: C:\poppler\Library\bin
+2026-04-23 10:01:08,484 - __main__ - INFO - Converted 1 pages from PDF
+2026-04-23 10:01:08,484 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=False
+2026-04-23 10:01:23,902 - __main__ - INFO - Processed image successfully, found 33 lines
+2026-04-23 10:01:23,909 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:01:28,446 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:01:28,448 - __main__ - INFO - Local LLM extracted 709 characters
+2026-04-23 10:01:28,451 - __main__ - INFO - PDF processing completed: 1 pages, 312 words
+2026-04-23 10:05:31,066 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-23 10:05:31,836 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-23 10:05:37,346 - __main__ - INFO - Processed image successfully, found 10 lines
+2026-04-23 10:05:37,354 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:05:40,778 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:05:40,779 - __main__ - INFO - Local LLM extracted 860 characters
+2026-04-23 10:05:40,971 - __main__ - INFO - Processing image with scale=1.13, margin=5, use_dict=True
+2026-04-23 10:05:41,629 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-23 10:05:44,953 - __main__ - INFO - Processed image successfully, found 3 lines
+2026-04-23 10:05:44,957 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:05:53,894 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:05:53,896 - __main__ - INFO - Local LLM extracted 130 characters
+2026-04-23 10:08:38,703 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-23 10:08:39,527 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-23 10:08:45,464 - __main__ - INFO - Processed image successfully, found 7 lines
+2026-04-23 10:08:45,466 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:08:51,816 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:08:51,816 - __main__ - INFO - Local LLM extracted 706 characters
+2026-04-23 10:25:41,902 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-23 10:25:42,801 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-23 10:25:51,034 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-23 10:25:51,036 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:25:54,913 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:25:54,921 - __main__ - INFO - Local LLM extracted 1342 characters
+2026-04-23 10:31:49,387 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-23 10:31:53,190 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-23 10:32:04,198 - __main__ - INFO - Processed image successfully, found 12 lines
+2026-04-23 10:32:04,203 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-23 10:32:09,263 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-23 10:32:09,265 - __main__ - INFO - Local LLM extracted 686 characters

@@ -1,0 +1,68 @@
+2026-04-19 12:25:34,469 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 12:25:34,951 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 12:25:35,239 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 12:25:35,240 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-19 12:25:36,001 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 12:25:36,488 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 12:25:38,827 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 18:53:43,846 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 18:53:44,612 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 18:53:44,749 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 18:53:44,749 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-19 18:53:45,423 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 18:53:46,086 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 18:53:48,953 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 18:54:09,538 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-19 18:54:12,103 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-19 18:54:12,105 - __main__ - INFO - Local LLM extracted 1330 characters
+2026-04-19 18:59:38,133 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 18:59:38,588 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 18:59:38,829 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 18:59:38,881 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2026-04-19 18:59:39,543 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 18:59:40,119 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 18:59:41,688 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 18:59:57,867 - __main__ - INFO - Using Local LLM for text extraction
+2026-04-19 19:00:02,066 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-19 19:00:02,068 - __main__ - INFO - Local LLM extracted 678 characters
+2026-04-19 19:00:30,234 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 19:00:30,663 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 19:00:30,689 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-19 19:00:30,795 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 19:00:31,496 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 19:00:31,955 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 19:00:33,314 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 19:00:39,177 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-19 19:00:42,166 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-19 19:00:51,129 - __main__ - INFO - Processed image successfully, found 12 lines
+2026-04-19 19:00:55,010 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-19 19:00:57,847 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-19 19:01:06,533 - __main__ - INFO - Processed image successfully, found 12 lines
+2026-04-19 19:01:06,538 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-19 19:01:09,950 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-19 19:01:09,953 - __main__ - INFO - Local LLM extracted 686 characters
+2026-04-19 19:04:00,784 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 19:04:01,210 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 19:04:01,239 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-19 19:04:01,467 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 19:04:02,260 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 19:04:02,434 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 19:04:03,958 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 19:11:21,024 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-04-19 19:11:21,461 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-19 19:11:21,489 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-04-19 19:11:21,664 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-19 19:11:22,488 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-19 19:11:22,714 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-04-19 19:11:24,230 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-19 19:11:33,297 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-04-19 19:11:36,250 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-04-19 19:11:45,009 - __main__ - INFO - Processed image successfully, found 12 lines
+2026-04-19 19:11:45,014 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-19 19:11:47,730 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-19 19:11:47,734 - __main__ - INFO - Local LLM extracted 686 characters
+2026-04-19 19:11:55,984 - __main__ - INFO - Processing image with scale=0.4, margin=1, use_dict=False
+2026-04-19 19:11:57,834 - __main__ - INFO - Processed image successfully, found 5 lines
+2026-04-19 19:11:57,835 - __main__ - INFO - Using Local LLM for advanced text extraction
+2026-04-19 19:12:00,396 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-04-19 19:12:00,405 - __main__ - INFO - Local LLM extracted 145 characters

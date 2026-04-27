@@ -1,0 +1,201 @@
+2026-03-20 09:45:21,002 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 09:45:21,487 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 09:45:21,599 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 09:45:22,993 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 09:45:23,399 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 09:45:27,365 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 09:45:45,983 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 09:45:48,968 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 09:45:48,968 - __main__ - INFO - Local LLM extracted 671 characters
+2026-03-20 09:54:33,943 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 09:54:33,943 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 09:54:33,943 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 09:57:30,055 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 09:57:30,550 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 09:57:30,653 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 09:57:31,133 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-03-20 09:57:31,956 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 09:57:32,364 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 09:57:35,748 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 09:58:49,624 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 09:58:53,267 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 09:58:53,271 - __main__ - INFO - Local LLM extracted 1396 characters
+2026-03-20 09:59:00,510 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 09:59:04,321 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 09:59:04,329 - __main__ - INFO - Local LLM extracted 1468 characters
+2026-03-20 09:59:39,547 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 09:59:39,548 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 09:59:39,549 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:05:53,486 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 10:05:56,299 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:05:56,299 - __main__ - INFO - Local LLM extracted 1153 characters
+2026-03-20 10:06:31,512 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:06:31,523 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:06:31,523 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:08:26,896 - scripts.pdf_gradio_demo - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:08:26,901 - scripts.pdf_gradio_demo - INFO - Processing PDF: data/sample.pdf
+2026-03-20 10:08:26,901 - scripts.pdf_gradio_demo - WARNING - Poppler not found in common locations
+2026-03-20 10:08:26,901 - scripts.pdf_gradio_demo - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:10:42,142 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 10:10:45,364 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:10:45,367 - __main__ - INFO - Local LLM extracted 852 characters
+2026-03-20 10:12:13,133 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:12:13,133 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:12:13,133 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:12:52,298 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:12:52,906 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 10:12:52,974 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-03-20 10:12:53,199 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 10:12:53,806 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 10:12:54,594 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 10:12:56,334 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 10:13:27,326 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:13:27,326 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:13:27,326 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:14:23,391 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:14:25,216 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-03-20 10:14:26,159 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 10:14:26,281 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 10:14:26,448 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 10:14:28,904 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 10:14:30,541 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 10:14:42,862 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:14:42,868 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:14:42,868 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:15:42,948 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-03-20 10:15:44,257 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-03-20 10:15:52,996 - __main__ - INFO - Processed image successfully, found 8 lines
+2026-03-20 10:17:07,307 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=True
+2026-03-20 10:17:08,359 - __main__ - WARNING - Encountered '+' error. Trying alternative parameters...
+2026-03-20 10:17:17,261 - __main__ - INFO - Processed image successfully, found 8 lines
+2026-03-20 10:17:55,398 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 10:17:58,521 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:17:58,521 - __main__ - INFO - Local LLM extracted 671 characters
+2026-03-20 10:19:18,766 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 10:19:20,849 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:19:20,849 - __main__ - INFO - Local LLM extracted 875 characters
+2026-03-20 10:27:48,218 - __main__ - INFO - Using Local LLM for text extraction
+2026-03-20 10:27:51,306 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:27:51,306 - __main__ - INFO - Local LLM extracted 807 characters
+2026-03-20 10:31:08,421 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:31:08,977 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 10:31:09,018 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 10:31:09,111 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-03-20 10:31:10,221 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 10:31:10,524 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 10:31:12,387 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 10:31:38,695 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:31:38,697 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:31:38,698 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    images = pdf_processor.pdf_to_images(pdf_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    raise RuntimeError("Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/")
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:33:35,827 - scripts.pdf_gradio_demo - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:33:35,833 - scripts.pdf_gradio_demo - INFO - Processing PDF: data/sample.pdf
+2026-03-20 10:33:35,836 - scripts.pdf_gradio_demo - INFO - Found Poppler at: C:\poppler\Library\bin
+2026-03-20 10:33:35,836 - scripts.pdf_gradio_demo - INFO - Converting PDF to images using Poppler path: C:\poppler\Library\bin
+2026-03-20 10:33:38,814 - scripts.pdf_gradio_demo - INFO - Converted 1 pages from PDF
+2026-03-20 10:33:38,816 - scripts.pdf_gradio_demo - INFO - Using Local LLM for text extraction
+2026-03-20 10:33:43,679 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:33:43,679 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:33:43,683 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    logger.info(f"Processing PDF: {pdf_path}")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    poppler_path = self.poppler_path or self.find_poppler()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:33:45,291 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:33:45,291 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:33:45,291 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    logger.info(f"Processing PDF: {pdf_path}")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    poppler_path = self.poppler_path or self.find_poppler()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:33:53,571 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2026-03-20 10:33:53,574 - scripts.pdf_gradio_demo - INFO - Local LLM extracted 2095 characters
+2026-03-20 10:33:53,587 - scripts.pdf_gradio_demo - INFO - PDF processing completed: 1 pages, 0 words
+2026-03-20 10:34:49,033 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:34:49,034 - __main__ - WARNING - Poppler not found in common locations
+2026-03-20 10:34:49,034 - __main__ - ERROR - Error in process_pdf_enhanced: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+Traceback (most recent call last):
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 994, in process_pdf_enhanced
+    logger.info(f"Processing PDF: {pdf_path}")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\HTRPipeline-CTC\scripts\pdf_gradio_demo.py", line 755, in pdf_to_images
+    poppler_path = self.poppler_path or self.find_poppler()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Poppler not found. Please install from: https://github.com/oschwartz10612/poppler-windows/releases/
+2026-03-20 10:35:14,555 - __main__ - INFO - Loaded dictionary with 370106 words
+2026-03-20 10:35:15,098 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-03-20 10:35:15,137 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2026-03-20 10:35:15,281 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-03-20 10:35:16,206 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-03-20 10:35:16,517 - httpx - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2026-03-20 10:35:18,092 - httpx - INFO - HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-03-20 10:35:34,233 - __main__ - INFO - Processing PDF: C:\Users\yash1\AppData\Local\Temp\gradio\0cc59de3f62ec8d92507c670b9a76c18efa3ed69365ae8de09568e5ec64da122\TCS NQT.pdf
+2026-03-20 10:35:34,245 - __main__ - INFO - Found Poppler at: C:\poppler\Library\bin
+2026-03-20 10:35:34,248 - __main__ - INFO - Converting PDF to images using Poppler path: C:\poppler\Library\bin
+2026-03-20 10:35:34,874 - __main__ - INFO - Converted 1 pages from PDF
+2026-03-20 10:35:34,874 - __main__ - INFO - Processing image with scale=1, margin=5, use_dict=False
+2026-03-20 10:36:08,345 - __main__ - INFO - Processed image successfully, found 35 lines
+2026-03-20 10:36:08,350 - __main__ - INFO - PDF processing completed: 1 pages, 491 words
