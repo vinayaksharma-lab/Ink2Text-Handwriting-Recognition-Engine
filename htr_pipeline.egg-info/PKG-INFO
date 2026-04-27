@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: htr-pipeline
+Version: 1.2.0
+Summary: Ink2Text: Handwritten Text Recognition Engine
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: onnxruntime
+Requires-Dist: opencv-python
+Requires-Dist: scikit-learn
+Requires-Dist: python-Levenshtein
+Requires-Dist: path
+Requires-Dist: pillow
+Requires-Dist: gradio
+Requires-Dist: matplotlib
+Requires-Dist: mistralai
+Requires-Dist: python-dotenv
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
